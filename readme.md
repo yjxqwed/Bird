@@ -6,7 +6,7 @@ Based on the original project [Image viewer](https://github.com/foobar167/junkya
 
 Use Bird to get the coordinates of feature points.
 
-* Right click to mark 
+* Left click to mark 
 * Esc to remove the last mark
 * Enter to save the results
 
