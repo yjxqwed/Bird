@@ -1,0 +1,10 @@
+#### Directories to ignore for GIT
+# temporary files
+temp/
+data/
+*/__pycache__
+.vscode
+
+#### Files to ignore for GIT
+# compiled python files
+*.pyc
